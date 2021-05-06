@@ -1,5 +1,5 @@
 # RG
-MemEdit for source eng /n
-C++ /n
-Version 2.4 /n
+MemEdit for source eng 
+C++ 
+Version 2.4 
 5/4/2021
